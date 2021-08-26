@@ -1,0 +1,16 @@
+{
+  "name": "discordjs-boiler-plate",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.22.0",
+    "discord.js": "^13.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "dev": "nodemon"
+  }
+}
